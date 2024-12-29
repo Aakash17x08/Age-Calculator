@@ -1,19 +1,21 @@
- # Age Calculator
+# Age Calculator
+
+You can view the Age Calculator at [this link](https://aakash17x08.github.io/Age-Calculator/).
 
 ## Overview
-The Age Calculator is a simple web application that allows users to calculate their age based on their date of birth. The application provides an intuitive and easy-to-use interface to input the date of birth and instantly displays the age in years.
+The Age Calculator is a simple web application that allows users to calculate their age based on their date of birth. The application provides an intuitive and easy-to-use interface for inputting the date of birth and instantly displays the age in years.
 
 ## Features
 - **Input Date of Birth**: Users can select their date of birth using an interactive date picker.
 - **Calculate Age**: After entering the date of birth, users can click the "Calculate" button to see their age in years.
-- **Responsive Design**: The application features a responsive layout that adapts to different screen sizes and devices.
-- **User-Friendly Interface**: The interface is minimalistic and visually appealing, using a gradient background and clear call-to-action buttons.
+- **Responsive Design**: The application is responsive, adapting to different screen sizes and devices.
+- **User-Friendly Interface**: A minimalistic and visually appealing design with a gradient background and clear call-to-action buttons.
 - **Social Media Links**: Includes links to the developer's GitHub and LinkedIn profiles for further connection.
 
 ## Technologies Used
-- **HTML**: Structure and layout of the page.
-- **CSS**: Styling the elements, creating a responsive design, and enhancing user interaction.
-- **JavaScript**: The core functionality of the application for calculating the user's age based on their date of birth.
+- **HTML**: Provides the structure and layout of the page.
+- **CSS**: Styles the elements, creates a responsive design, and enhances user interaction.
+- **JavaScript**: Implements the core functionality to calculate the user's age based on their date of birth.
 
 ## How to Use
 1. Open the Age Calculator in your web browser.
